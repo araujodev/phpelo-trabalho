@@ -1,0 +1,9 @@
+
+JavaScript
+
+Exercício:
+1) crie uma página web que permita
+configurar a cor do fundo do BODY e as
+cores dos parágrafos
+
+Obs.: Utilize o “input type color”

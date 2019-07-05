@@ -1,0 +1,9 @@
+
+WEB2
+
+Trabalho 2
+Crie um relatório de desempenho do jogador contendo a listagem das questões que ele respondeu indicando se acertou ou não acertou
+
+
+No final do relatório, mostre as quantidades de acertos e erros e as porcentagens de erros e acertos
+

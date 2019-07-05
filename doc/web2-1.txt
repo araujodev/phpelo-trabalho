@@ -1,0 +1,12 @@
+WEB 2
+
+Faça o cadastro do jogador, e inclua um campo
+para foto, implemente este cadastro.
+
+ Fontes:
+https://php.eduardokraus.com/upload-de-imagens-com-php
+
+O cadastro não pode ser acessado por
+qualquer um, somente para o administrador
+Crie uma conta administrador em usuário e
+não permita acesso anônimo e nem de usuário 
